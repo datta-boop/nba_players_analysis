@@ -12,15 +12,17 @@ https://drive.google.com/file/d/1Kwj3U946KTisQzESwepIDgZRxjoTj8nI/view?usp=shari
 ## Directory Structure
 my-app/
 ├─ python_files/
-│  ├─ charts.py
-│  ├─ preprocessor.py
-│  ├─ main.py
-├─ jupyter_notebook_files/
-│  ├─ Advanced Metric.ipynb
-│  ├─ Cleaned DataSet.ipynb
-│  ├─ College Analysis.ipynb
-│  ├─ NBAPlayersv.ipynb
-│  ├─ Performance Metrics.ipynb
+- │  ├─ charts.py
+- │  ├─ preprocessor.py
+- │  ├─ main.py
+- ├─ jupyter_notebook_files/
+- │  ├─ Advanced Metric.ipynb
+- │  ├─ Cleaned DataSet.ipynb
+- │  ├─ College Analysis.ipynb
+- │  ├─ NBAPlayersv.ipynb
+- │  ├─ Performance Metrics.ipynb
+├─ PowerBi/
+- │  ├─ nba_players_analysis_powerbi_dashboard.pbix
 
 ## Video Walkthrough of the project
 https://youtu.be/2ORSU-OzMPE
