@@ -6,7 +6,7 @@ The project is an NBA Player Data Analysis Dashboard that uses Power BI, Python,
 ## Project Type
 PowerBi Dashboard, using Python and SQL for data transformation
 
-## Deplolyed App
+## Deployed App
 https://drive.google.com/file/d/1Kwj3U946KTisQzESwepIDgZRxjoTj8nI/view?usp=sharing
 
 ## Directory Structure
